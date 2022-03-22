@@ -26,6 +26,7 @@ import java.util.concurrent.atomic.AtomicInteger;
  * @author 百泽
  * @公众号 Java架构栈
  */
+ //表示Responsebody和controller
 @RestController
 public class HelloController {
 
